@@ -1,5 +1,5 @@
 # GIMP-NightOwl
- Night Owl dark theme for GIMP 2.10
+ Night Owl dark theme for GIMP 2.10 that I made for personal use.
 
 This theme is modified from the default GIMP 2.0 dark theme.
 
