@@ -12,7 +12,7 @@ Feel free to modify the files to your preference.
 Screenshots:
 
 Preferences theme dialog.
-![Preferences theme dialog](reference/gimp-2.10_UsQADWfeK6.png)
+![Preferences theme dialog](gimp-2.10_UsQADWfeK6.png)
 
 Application view.
-![Application view](reference/gimp-2.10_jjr67YqAvY.png)
+![Application view](gimp-2.10_jjr67YqAvY.png)
